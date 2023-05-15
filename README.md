@@ -7,8 +7,8 @@ Using AI to generate photo-realistic models.
 ## Example 
 
 <p align="center">
-  <img src="example/2.png" width="400" height="300" alt="Image 2">
-  <img src="example/1.png" width="400" height="300" alt="Image 1">
+  <img src="example/2.png" width="400" height="500" alt="Image 2">
+  <img src="example/1.png" width="400" height="500" alt="Image 1">
 </p>
 
 See below to how to generate this same image.
