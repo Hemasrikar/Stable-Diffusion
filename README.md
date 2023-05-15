@@ -2,11 +2,11 @@
 
 ## Text-To-Image of photo-realistic AI girl
 
-Using AI to generate photo-realistic models. These are actually rising in popularity, on twitter and other apps.
+Using AI to generate photo-realistic models.
 
 ## Example 
 
-![Img](example/2.png)
+![Img](example/1.png)
 
 See below to how to generate this same image.
 
