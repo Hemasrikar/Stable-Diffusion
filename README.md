@@ -6,16 +6,13 @@ Using AI to generate photo-realistic models.
 
 ## Example 
 
-![Img](example/1.png) 
-![Img](example/2.png)
+<p align="center">
+  <img src="example/1.png" width="400" alt="Image 1">
+  <img src="example/2.png" width="400" alt="Image 2">
+</p>
 
 See below to how to generate this same image.
 
 ## Instructions:
 
 [Instructions](instructions.pdf)
-
-
-## Disclaimer
-
-Please understand that is all not real. Please do not sexualize people in general and understand the dangers of AI.
